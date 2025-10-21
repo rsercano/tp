@@ -19,6 +19,37 @@ nav_order: 1
 
 ---
 
+## 🗺️ Country-Based Rankings & Featuring
+
+| Country | Category (Travel / General) | Avg. Position | Featuring Location | Featuring Type |
+|----------|----------------------------|----------------|-------------------|----------------|
+| 🇳🇱 Netherlands | Travel (Local) | **#7** | APPS | Reizen en lokaal |
+| 🇧🇪 Belgium | Travel (Local) | **#11** | APPS | Reizen en lokaal |
+| 🇳🇱 Netherlands | General (Popular apps) | #16 | APPS | Populaire apps |
+| 🇧🇪 Belgium | General (Popular apps) | #16 | APPS | Populaire apps |
+| 🇨🇭 Switzerland | Travel (Beliebte Apps) | #11 | APPS | Beliebte Apps |
+| 🇹🇼 Taiwan | Travel | #16 | APPS | 編輯精選使用程式 |
+| 🇩🇰 Denmark | Travel (Rejser og lokalt) | #17 | APPS | Rejser og lokalt |
+| 🇲🇽 Mexico | Travel (Editor’s Choice) | #19 | APPS | Apps de la selección del editor |
+| 🇳🇱 Netherlands | Travel (Books & Guides) | #13 | APPS | Reizen en ontdekkingstochten boeken |
+| 🇧🇪 Belgium | Travel (Books & Guides) | **#1** | APPS | Reizen en ontdekkingstochten boeken |
+| 🇸🇰 Slovakia | Travel (Local) | #21 | APPS | Cestovanie a miesta |
+| 🇵🇹 Portugal | Travel (Local) | #11 | APPS | Viagens e local |
+| 🇳🇴 Norway | Travel (Local) | #18 | APPS | Reiser og lokalt |
+| 🇭🇰 Hong Kong | Travel (Local) | #21 | APPS | 編輯精選使用程式 |
+| 🇩🇰 Denmark | Travel (Book & Explore) | **#3** | APPS | Book rejser, og tag på opdagelse |
+| 🇧🇪 Belgium | General (Recommended) | #25 | APPS | Aanbevolen voor jou |
+| 🇮🇹 Italy | Travel (Local Info) | #16 | APPS | Viaggi e informazioni locali |
+| 🇦🇷 Argentina | Travel (Editor’s Choice) | #19 | APPS | Apps de la selección del editor |
+| 🇮🇪 Ireland | Travel (Book & Explore) | #4 | APPS | Book travel and explore |
+| 🇩🇰 Denmark | Travel (Plan next trip) | **#3** | APPS | Planlæg din næste tur |
+| 🇫🇮 Finland | Travel (Local Info) | #25 | APPS | Matkailu ja paikalliset |
+
+> 🏆 **Best Rank Country:** Belgium (#1 in “Travel Books & Guides”)  
+> 🌍 **Other strong markets:** Netherlands (#7 Travel), Denmark (#3), Ireland (#4)
+
+---
+
 ## 🏢 Company & Funding Info
 
 | Metric | Value |
