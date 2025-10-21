@@ -14,7 +14,7 @@ nav_order: 6
 
 | App Name | Price Model (Free/Paid/Sub) | Main Source of Income | Last Update (Stores) | Notable Features (1–3 bullets) | Total Downloads (Android) | Ratings (per store) | Reviews (per store) | Best Rank Country |
 |---|---|---|---|---|---|---|---|---|
-| **TripIt: Travel Planner** | Free app + **TripIt Pro** subscription | **Subscriptions** (TripIt Pro) | Varies by region (see store pages) | • Auto-build itineraries from booking emails • Real-time flight alerts & alternate flights (Pro) • Seat & fare monitoring (Pro) | **1M+ installs** (range shown on Play) | App Store ~4.8–4.9 ★ • Google Play ~4.6–4.8 ★ | Store pages show current counts | — |
+| **TripIt: Travel Planner** | Free app + **TripIt Pro** subscription | **Subscriptions** (TripIt Pro) | Varies by region (see store pages) | • Auto-build itineraries from booking emails • Real-time flight alerts & alternate flights (Pro) • Seat & fare monitoring (Pro) | **5M+ installs** | App Store ~4.8–4.9 ★ • Google Play ~4.6–4.8 ★ | 93k | — |
 
 <sub>Sources: App Store: https://apps.apple.com/us/app/tripit-travel-planner/id311035142 • Google Play: https://play.google.com/store/apps/details?id=com.tripit • TripIt site: https://www.tripit.com/web</sub>
 
