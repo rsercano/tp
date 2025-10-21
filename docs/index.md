@@ -5,6 +5,6 @@ nav_order: 1
 
 # Trip Planner Notes
 
-Browse app teardowns in **Apps**.
+Welcome to your competitor analysis site.
 
-- 👉 [Apps](./apps/)  <!-- this will render a section page -->
+- Go to [Apps](./apps/) to explore app pages.

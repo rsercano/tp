@@ -1,7 +1,7 @@
 ---
 title: Polarsteps
-nav_order: 10
 parent: Apps
+nav_order: 1
 ---
 
 # Polarsteps — Feature & Monetization (public-source based)
