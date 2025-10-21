@@ -15,7 +15,7 @@ nav_order: 4
 
 | App Name | Price Model (Free/Paid/Sub) | Main Source of Income | Last Update (Stores) | Notable Features (1–3 bullets) | Total Downloads (Android) | Ratings (per store) | Reviews (per store) | Best Rank Country |
 |---|---|---|---|---|---|---|---|---|
-| **Wanderlog – Travel Planner** | Free app + **Pro** subscription | **Pro** subscriptions (annual) | **iOS**: see page for current version • **Android**: see page for current version | • Collaborative trip planning on map + list<br>• Import & organize reservations; budget/expense tracking<br>• Offline access to trip plan (Pro adds offline maps) | **1M+ installs** (range shown on Play) | **App Store**: 4.8–4.9 ★ • **Google Play**: ~4.7 ★ | Store pages show current counts | — |
+| **Wanderlog – Travel Planner** | Free app + **Pro** subscription | **Pro** subscriptions (annual) | Oct 13, 2025 | • Collaborative trip planning on map + list<br>• Import & organize reservations; budget/expense tracking<br>• Offline access to trip plan (Pro adds offline maps) | **1M+ installs** (range shown on Play) | **App Store**: 4.8–4.9 ★ • **Google Play**: ~4.7 ★ | Store pages show current counts | — |
 
 <sub>📎 Sources: [App Store listing](https://apps.apple.com/us/app/wanderlog-travel-planner/id1476732439) • [Google Play listing](https://play.google.com/store/apps/details?id=com.wanderlog.android) • [Wanderlog mobile app page](https://wanderlog.com/trip-planner-mobile-app)</sub>
 
