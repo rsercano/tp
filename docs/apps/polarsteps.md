@@ -17,6 +17,8 @@ nav_order: 1
 |-----------|-----------------------------|-----------------------|----------------------|-------------------------------|------------------|---------------------|----------|-------------------|
 | **Polarsteps** | Free | Printed travel-book sales | 12 Oct 2025 | • Automatically tracks your route & maps your journey<br>• Create & share visual travel journals with photos + notes<br>• Option to order a printed travel-book keepsake | 5 M + (Android) | 4.5 – 4.8 | ≈ 151 K reviews | Netherlands |
 
+<sub>📎 Sources: [App Store](https://apps.apple.com/app/polarsteps/id947925763) • [Google Play](https://play.google.com/store/apps/details?id=com.polarsteps) • [Polarsteps Travel Book](https://www.polarsteps.com/travel-book) • [OnTheGoSolo review](https://onthegosolo.com/polarsteps-review/) • [AppRadar Pro rankings](https://appradar.com)</sub>
+
 ---
 
 ## 🗺️ Country-Based Rankings & Featuring
@@ -48,29 +50,37 @@ nav_order: 1
 > 🏆 **Best Rank Country:** Belgium (#1 in “Travel Books & Guides”)  
 > 🌍 **Other strong markets:** Netherlands (#7 Travel), Denmark (#3), Ireland (#4)
 
+<sub>📎 Source: [AppRadar › Store Visibility › Featuring](https://appradar.com) (export CSV from Polarsteps › All Countries)</sub>
+
 ---
 
 ## 🏢 Company & Funding Info
 
 | Metric | Value |
 |--------|-------|
-| Employees | ~51-200 (Amsterdam, Netherlands) |
-| Estimated Annual Revenue | ~US$ 24.8 million |
-| Enterprise Value (estimated) | US$ 13-20 million |
-| Total Funding Raised | ~US$ 5-8 million |
-| Key Funding Rounds | Seed: ~€0.5 million (Mar 2016) · Series A: ~€3 million (Jan 2019) |
-| Best Rank Country | Netherlands (Top Travel Category) |
+| **Headquarters** | Amsterdam, Netherlands |
+| **Employees** | ~51 – 200 ([Dealroom](https://app.dealroom.co/companies/polarsteps)) |
+| **Estimated Annual Revenue** | ≈ US$ 24.8 million ([Growjo](https://growjo.com/company/Polarsteps.com)) |
+| **Enterprise Value (estimated)** | US$ 13 – 20 million ([Dealroom](https://app.dealroom.co/companies/polarsteps)) |
+| **Total Funding Raised** | ≈ US$ 5 – 8 million ([Tracxn](https://tracxn.com/d/companies/polarsteps)) |
+| **Key Funding Rounds** | Seed €0.5 M (Mar 2016 – Silver Point Ventures & TMG) · Series A €3 M (Jan 2019 – EU Startups) |
+| **Investors** | Silver Point Ventures, TMG, private angels |
+| **Founded** | 2015 |
+| **Website** | [polarsteps.com](https://www.polarsteps.com) |
+| **Best Rank Country** | Netherlands (Top Travel Category) |
+
+<sub>📎 Sources: [Dealroom](https://app.dealroom.co/companies/polarsteps) • [Growjo](https://growjo.com/company/Polarsteps.com) • [Tracxn](https://tracxn.com/d/companies/polarsteps) • [EU-Startups funding news](https://www.eu-startups.com/2019/01/amsterdam-based-travel-tech-startup-polarsteps-raises-e3-million-and-reaches-one-million-users/) • [News.Polarsteps.com press release](https://news.polarsteps.com/de/news/travel-tracking-app-polarsteps-raises-500-000-investment)</sub>
 
 ---
 
-## ✅ Feature checklist
+## ✅ Feature Checklist
 
 | Area | Capability | Status | Notes |
 |---|---|---|---|
 | Core tracking | Automatic GPS route tracking (trip “steps”) | ✅ | Records path on map; efficient battery usage |
 | Media | Add photos to steps / timeline | ✅ | Multiple photos per step |
-| Notes | Text journal entries | ✅ | Per step or per trip |
-| Offline | Works with poor/no internet | ✅ | Syncs later |
+| Notes | Text journal entries | ✅ | Per step or trip |
+| Offline | Works with poor / no internet | ✅ | Syncs later |
 | Sharing | Public / followers / private controls | ✅ | Per-trip privacy |
 | Social | Follow other travellers | ✅ | Lightweight social feed |
 | Stats | Countries visited, distance, time away | ✅ | Auto-generated visuals |
@@ -79,32 +89,38 @@ nav_order: 1
 | AI planning | AI-powered itinerary builder | ✅ | Personalizes using past data |
 | Export | Printed Travel Book | ✅ (paid) | Auto-layout of map, photos, notes |
 | Bookings | In-app flight/hotel booking | ❌ | Not included |
-| Real-time ops | Live re-plan/weather/delays | ⚠️ Limited | Not core focus |
+| Real-time ops | Live re-plan / weather / delays | ⚠️ Limited | Not core focus |
+
+<sub>📎 Sources: [Polarsteps Help Center – AI Itinerary Builder](https://support.polarsteps.com/hc/en-nl/articles/27170922889874) • [GirlsWanderlust review](https://girlswanderlust.com/polarsteps-plan-track-and-relive-your-trips/) • [MattsNextSteps review](https://mattsnextsteps.com/polarsteps-review-is-polarsteps-the-best-travel-tracking-app/) • [TwoWithAView](https://www.twowithaview.com/polarsteps/)</sub>
 
 ---
 
-## 💰 Monetization model
+## 💰 Monetization Model
 
 | Stream | Description | Type | Status |
 |---------|--------------|------|---------|
-| **Travel Book sales** | Printed keepsake of your trip (map + photos + notes) | Direct Sale | ✅ Active |
+| **Travel Book sales** | Printed keepsake of trip (map + photos + notes) | Direct Sale | ✅ Active |
 | Premium print options | Extra pages, hard cover, fast shipping | Upsell | ✅ Active |
 | Subscriptions | No app subscription currently | Recurring | ❌ None |
 | Ads | No display or interstitial ads | Ad revenue | ❌ None |
-| Affiliate booking | Hotel/tour links | Commission | 🚧 Potential future |
+| Affiliate booking | Hotel / tour links | Commission | 🚧 Potential future |
 
-> 💡 Profit driver: physical book sales (estimated €30 – 50 per book).  
-> This aligns revenue with user emotion → memory preservation.
+> 💡 Profit driver: physical book sales (€30 – 50 per book).  
+> Aligns revenue with user emotion → memory preservation.
+
+<sub>📎 Sources: [Polarsteps Travel Book page](https://www.polarsteps.com/travel-book) • [OntheGoSolo review](https://onthegosolo.com/polarsteps-review/) • [PilotPlans review](https://www.pilotplans.com/blog/polarsteps-review)</sub>
 
 ---
 
-## 🧭 Trip-planner relevance
+## 🧭 Trip-Planner Relevance
 
-- **Planner type:** Hybrid (rule-based + AI)
-- **Offline capability:** Strong (tracking + media sync)
-- **UGC/community:** Lightweight (journals + follow system)
-- **Local depth:** Guides exist; no transactional content
-- **Differentiator:** Emotional retention via journaling + physical product
+- **Planner type:** Hybrid (rule-based + AI)  
+- **Offline capability:** Strong (tracking + media sync)  
+- **UGC / community:** Lightweight (journals + follow system)  
+- **Local depth:** Guides exist; no transactional content  
+- **Differentiator:** Emotional retention via journaling + physical product  
+
+<sub>📎 Source: [Support – AI Itinerary Builder](https://support.polarsteps.com/hc/en-nl/articles/27170922889874)</sub>
 
 ---
 
@@ -112,24 +128,30 @@ nav_order: 1
 
 **Strengths**
 - Exceptional **auto-journaling UX** (map + media + stats)  
-- Offline friendly for travellers  
-- Unique, tangible monetization (Travel Book)  
-- High satisfaction & ratings
+- Offline-friendly for travellers  
+- Tangible monetization via Travel Book  
+- High ratings & retention  
 
 **Limitations**
-- Lacks real-time transport or booking integration  
-- Trip planning limited vs. full itinerary apps  
-- Social features are minimalist (no chat/groups)
+- No real-time transport or booking integration  
+- Limited trip planning depth  
+- Minimal social layer (no chat/groups)
+
+<sub>📎 Sources: [MattsNextSteps](https://mattsnextsteps.com/polarsteps-review-is-polarsteps-the-best-travel-tracking-app/) • [GirlsWanderlust](https://girlswanderlust.com/polarsteps-plan-track-and-relive-your-trips/) • [PilotPlans](https://www.pilotplans.com/blog/polarsteps-review)</sub>
 
 ---
 
-## 📎 Public sources (for verification)
+## 📎 Public Sources (Summary)
 
-- **Google Play:** [Polarsteps — Travel Tracker](https://play.google.com/store/apps/details?id=com.polarsteps)  
-- **App Store:** [Polarsteps Travel Tracker](https://apps.apple.com/app/polarsteps/id947925763)  
-- **Travel Book:** [polarsteps.com/travel-book](https://www.polarsteps.com/travel-book)  
-- **Support:** [AI-Powered Itinerary Builder](https://support.polarsteps.com/hc/en-nl/articles/27170922889874)  
-- **Reviews:** OnTheGoSolo, PilotPlans, MattsNextSteps, GirlsWanderlust  
-- **AppRadar Pro:** Rankings / downloads / reviews trend
+- [Google Play Listing](https://play.google.com/store/apps/details?id=com.polarsteps)  
+- [App Store Listing](https://apps.apple.com/app/polarsteps/id947925763)  
+- [Polarsteps Travel Book](https://www.polarsteps.com/travel-book)  
+- [Polarsteps Support Center](https://support.polarsteps.com/)  
+- [AppRadar Pro – Polarsteps Rankings](https://appradar.com)  
+- [Dealroom Company Profile](https://app.dealroom.co/companies/polarsteps)  
+- [Growjo Revenue Estimates](https://growjo.com/company/Polarsteps.com)  
+- [Tracxn Funding Profile](https://tracxn.com/d/companies/polarsteps)  
+- [EU Startups Funding Article](https://www.eu-startups.com/2019/01/amsterdam-based-travel-tech-startup-polarsteps-raises-e3-million-and-reaches-one-million-users/)  
+- [News.Polarsteps Press Release](https://news.polarsteps.com/de/news/travel-tracking-app-polarsteps-raises-500-000-investment)
 
 ---
