@@ -15,7 +15,7 @@ nav_order: 3
 
 | App Name | Price Model (Free/Paid/Sub) | Main Source of Income | Last Update (Stores) | Notable Features (1–3 bullets) | Total Downloads (Android) | Ratings (per store) | Reviews (per store) | Best Rank Country |
 |-----------|-----------------------------|------------------------|----------------------|--------------------------------|----------------------------|----------------------|-----------------------|-------------------|
-| **Lambus – Travel Planner** | Free app + **PRO** (monthly/yearly/lifetime) | PRO subscriptions + per-trip unlocks | **iOS:** Oct 15 2025 (v12.1.1) • **Android:** Sep 23 2025 | • Plan multi-stop itineraries & import .gpx<br>• Store documents & manage/split expenses<br>• Group collaboration; tickets/transport saved to trip | **100 K+ installs** | **iOS:** 4.7 / 5 (70 ratings) • **Android:** 4.3 / 5 (≈ 2.1 K reviews) | 70 (iOS) / ≈ 2 K (Android) | _Not publicly revealed → see AppRadar_ |
+| **Lambus – Travel Planner** | Free app + **PRO** (monthly/yearly/lifetime) | PRO subscriptions + per-trip unlocks | **iOS:** Oct 15 2025 (v12.1.1) • **Android:** Sep 23 2025 | • Plan multi-stop itineraries & import .gpx<br>• Store documents & manage/split expenses<br>• Group collaboration; tickets/transport saved to trip | **100 K+ installs** | **iOS:** 4.7 / 5 (70 ratings) • **Android:** 4.3 / 5 (≈ 2.1 K reviews) | 70 (iOS) / ≈ 2 K (Android) | Turkey |
 
 <sub>📎 Sources: [App Store](https://apps.apple.com/us/app/lambus-travel-planner/id1446178879) • [Google Play](https://play.google.com/store/apps/details?id=io.lambus.app) • [Lambus Product page](https://www.lambus.com/product)</sub>
 
