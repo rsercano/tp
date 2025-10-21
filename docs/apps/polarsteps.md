@@ -89,8 +89,3 @@ parent: Apps
 - **AppRadar Pro:** Rankings / downloads / reviews trend
 
 ---
-
-## 🧾 How to use in your repo
-- Save this file as: `docs/apps/polarsteps.md`
-- Update `nav_order` and `parent` fields in YAML to control sidebar order.
-- To add ADAC Trips or others, copy this layout and update the summary table + feature checklist.
