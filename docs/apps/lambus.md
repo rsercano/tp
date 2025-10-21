@@ -97,9 +97,10 @@ nav_order: 3
 
 | Stream | Description | Type | Notes / Pricing |
 |---------|--------------|------|----------------|
-| **PRO Subscription** | Unlocks advanced features (flight status, exports, offline) | Recurring | Monthly / Yearly / Per-Trip / Lifetime options |
-| Gift Cards / Lifetime | One-time unlock or gift voucher | One-time | Gift card store on [Lambus.com](https://www.lambus.com) |
+| **PRO Subscription** | Unlocks advanced features (flight status, exports, offline, weather, compensation, etc.) | Recurring | **€11.97 / 3 months**, **€24.99 / year**, or **€99.99 lifetime** ([Lambus Gifts Store](https://gifts.lambus.com/collections/pro-collection-sorted)) |
+| Gift Cards / Lifetime | One-time unlock or gift voucher | One-time | Purchase gift cards for 3 months / 1 year / lifetime on [gifts.lambus.com](https://gifts.lambus.com) |
 | Bookings / Partners | Partner affiliate offers (GetYourGuide, Omio) | Affiliate | Linked from “Book your matching offer” sections |
+| Ads | None displayed | — | App is fully ad-free |
 
 > 💡 The app earns mainly through PRO subscriptions and affiliate links, not ads.
 
