@@ -6,98 +6,107 @@ nav_order: 6
 
 # TripIt — Master Itinerary & Travel Alerts (public-source based)
 
-> _Scope:_ Verified from official TripIt website, pricing page, reputable reviews, and platform store listings.
+> _Scope:_ Facts verified from TripIt’s official site & help center, App Store / Google Play listings, and reputable tech press.
 
 ---
 
 ## 📋 Quick Summary
 
 | App Name | Price Model (Free/Paid/Sub) | Main Source of Income | Last Update (Stores) | Notable Features (1–3 bullets) | Total Downloads (Android) | Ratings (per store) | Reviews (per store) | Best Rank Country |
-|----------|-----------------------------|------------------------|------------------------|--------------------------------|-----------------------------|-----------------------|-------------------------|---------------------|
-| **TripIt – Travel Planner & Alerts** | Free app + **Pro** subscription (annual) | Subscriptions via TripIt Pro (~US$49/year) :contentReference[oaicite:1]{index=1} | (Latest version date varies per region) | • Auto-import bookings via email forwarding<br>• Real-time flight alerts, gate/terminal updates (Pro)<br>• Tracks seats, fares, loyalty points (Pro) :contentReference[oaicite:2]{index=2} | 1M+ installs (Google Play) (exact number not publicly broken down) | **App Store:** ~4.8-4.9 ★ • **Google Play:** ~4.6-4.8 ★ | Reviews count varies; ~10K+ in some markets :contentReference[oaicite:3]{index=3} | — |
+|---|---|---|---|---|---|---|---|---|
+| **TripIt: Travel Planner** | Free app + **TripIt Pro** subscription | **Subscriptions** (TripIt Pro) | Varies by region (see store pages) | • Auto-build itineraries from booking emails • Real-time flight alerts & alternate flights (Pro) • Seat & fare monitoring (Pro) | **1M+ installs** (range shown on Play) | App Store ~4.8–4.9 ★ • Google Play ~4.6–4.8 ★ | Store pages show current counts | — |
 
-<sub>Sources: [TripIt official site](https://www.tripit.com/web) :contentReference[oaicite:4]{index=4} • [Pricing page](https://www.tripit.com/web/pro/pricing) :contentReference[oaicite:5]{index=5} • Review source: Going.com review :contentReference[oaicite:6]{index=6}</sub>
+<sub>Sources: App Store: https://apps.apple.com/us/app/tripit-travel-planner/id311035142 • Google Play: https://play.google.com/store/apps/details?id=com.tripit • TripIt site: https://www.tripit.com/web</sub>
 
 ---
 
 ## 🧩 Product & Core Features (Free)
 
 | Area | Capability | Source |
-|------|-----------|--------|
-| Itinerary aggregation | Forward confirmation emails to plans@tripit.com, auto-generate itinerary | :contentReference[oaicite:7]{index=7} |
-| Cross-device sync | Access your trip across phone/tablet/web | :contentReference[oaicite:8]{index=8} |
-| Calendar integration | Send trips to calendar automatically | :contentReference[oaicite:9]{index=9} |
-| Basic travel details | Store flights, hotels, car rentals, events in one place | :contentReference[oaicite:10]{index=10} |
-| Document upload (limited) | Free plan allows uploads (e.g., PDFs) but limited count | :contentReference[oaicite:11]{index=11} |
-| Travel stats & carbon footprint tracking | Monitor total travel miles & CO₂ estimates | :contentReference[oaicite:12]{index=12} |
+|---|---|---|
+| Itinerary aggregation | Forward confirmations to **plans@tripit.com** to auto-create a master itinerary | https://www.tripit.com/web/free/how-it-works |
+| Unified trip view | Flights, hotels, cars, activities in one place; share & sync with calendar | https://www.tripit.com/web/free/how-it-works |
+| Cross-device sync | Access on iOS/Android/Web (and Apple Watch) | App Store & Play listings (see above) |
+| Calendar integration | Auto-sync itineraries to your calendar | https://www.tripit.com/web/free/how-it-works |
+| Travel stats & carbon | Travel statistics; CO₂ estimates | https://www.pilotplans.com/blog/review-of-tripit (review summarizing TripIt features) |
+| Document uploads (basic) | Upload trip documents (lower limits vs Pro) | https://www.tripit.com/web/pro/pricing |
 
 ---
 
-## 🛠️ Pro Features (Paid Tier – TripIt Pro)
+## 🛠️ TripIt Pro Features (Paid)
 
-| Feature | Description | Source |
-|---------|-------------|--------|
-| Real-time flight alerts | Notifications for delays, cancellations, gate/terminal changes | :contentReference[oaicite:13]{index=13} |
-| Fare refund tracker | Monitors whether booked fare drops so you can claim refund | :contentReference[oaicite:14]{index=14} |
-| Seat tracker | Alerts if a better seat becomes available | :contentReference[oaicite:15]{index=15} |
-| Alternate flight finder | Suggests other flights if yours is disrupted | :contentReference[oaicite:16]{index=16} |
-| “Go Now” & airport navigation | Tells when you should leave for airport, provides terminal/gate maps | :contentReference[oaicite:17]{index=17} |
-| Loyalty points tracking | Keeps track of your miles/points across programs | :contentReference[oaicite:18]{index=18} |
-| Upload more documents | Higher limit of document uploads per trip (e.g., 25) | :contentReference[oaicite:19]{index=19} |
-| Country-specific travel info | Travel advisories, safety, embassy info per country | :contentReference[oaicite:20]{index=20} |
+| Feature | What it does | Source |
+|---|---|---|
+| **Real-time flight alerts** | Push alerts for delays, cancellations, gate/terminal changes | https://www.tripit.com/web/pro/pricing |
+| **Fare Tracker (refunds)** | Monitors booked airfare; alerts if a credit/refund may be available | https://www.tripit.com/web/blog/travel-tips/DOT-new-rule-airlines |
+| **Seat Tracker** | Alerts when preferred/better seats open up | https://help.tripit.com/en/support/solutions/articles/103000063398-seat-maps-seat-tracker |
+| **Alternate Flights** | Finds alternate options when your flight is disrupted | https://www.tripit.com/web/appintheair |
+| **Check-in reminders** | Notifies when it’s time to check in | https://help.tripit.com/en/support/solutions/articles/103000063396-tripit-or-tripit-pro- |
+| **“Go Now” + airport navigation** | When to leave for airport; terminal & gate maps | https://www.cntraveler.com/story/tripit-app-will-now-tell-you-when-to-leave-for-the-airport |
+| **Loyalty tracking** | Track miles/points across programs (Pro hub) | https://www.going.com/guides/tripit-review |
+| **Country info & risk alerts** | Country-specific advisories, safety & embassy info | https://www.tripit.com/web/appintheair |
+| **Higher doc upload limits** | Up to ~25 documents per trip (vs. lower free limit) | https://www.tripit.com/web/pro/pricing |
+
+> **Price:** **US$49/year** for TripIt Pro (often with a 30-day free trial). Pricing shown on TripIt’s site; may vary by region/platform.  
+> Sources: https://www.tripit.com/web/pro/pricing • https://www.tripit.com/pro
 
 ---
 
 ## 💰 Monetization Model
 
 | Stream | Description | Type | Notes / Pricing |
-|--------|-------------|------|----------------|
-| **TripIt Pro Subscription** | Unlocks premium travel-alert & planning features | Recurring subscription | ~US$ 49/year (may vary by region) :contentReference[oaicite:21]{index=21} |
-| Free plan | Basic itinerary & organization features for free | Freemium | Drive user acquisition |
-| Enterprise/Business version | TripIt offers “TripIt for Teams” / business-travel solutions | B2B Subscription | Mentioned in reviews (not fully public pricing) :contentReference[oaicite:22]{index=22} |
+|---|---|---|---|
+| **TripIt Pro** | Unlocks Pro alerts, seat/fare monitoring, alternate flights, navigation, higher limits | Subscription | **US$49/year** (TripIt site) — https://www.tripit.com/web/pro/pricing |
+| Free plan | Core itinerary organizer | Freemium | Drives acquisition & upgrade to Pro |
+| Enterprise link | Complimentary Pro via **Concur TripLink** for eligible companies | B2B (bundled) | https://www.tripit.com/web/blog/business-travel/tripit-pro-concur-triplink |
 
 ---
 
 ## 🧭 Trip-Planner Relevance
 
-- **Strong** in itinerary aggregation + real-time alerts — ideal for frequent travellers/business trips.  
-- **Weakness** for deep “trip discovery” or local experiences compared to full lifestyle/travel guide apps.  
-- **Differentiator:** Auto-import booking emails + rich Pro alert/navigation features.  
-- **Consideration for Turkey / local markets:** Ensure language/support availability if targeting TR region.
+- **Strength:** Industry-leading **itinerary ingestion** (email forwarding) + **operational alerts** for frequent travelers.  
+- **Differentiator:** **Seat/Fare/Alternate flight** tools and **airport navigation timing**—critical when disruptions occur.  
+- **Scope:** Focuses on **organizing & monitoring** trips; not a discovery/booking marketplace.
+
+<sub>Sources: https://www.tripit.com/web • https://www.tripit.com/web/pro/pricing • https://www.tripit.com/web/appintheair</sub>
 
 ---
 
-## 🏢 Company & Funding Info
+## 🏢 Company & Ownership
 
-| Metric | Value |
-|--------|--------|
-| Publisher/Developer | Concur Technologies, Inc. (a SAP Company) :contentReference[oaicite:23]{index=23} |
-| Established | TripIt website says “Millions of travelers” using since early 2000s. Review says founded 2006. :contentReference[oaicite:24]{index=24} |
-| Funding/Status | Acquired by Concur (later SAP) — public company backing rather than independent startup. |
-| Headquarters | Based in USA (San Francisco / Seattle offices mentioned) |
-
----
-
-## ⭐ Strengths / ⚠️ Limitations
-
-**Strengths**  
-- Seamless itinerary gathering from booking emails.  
-- Pro tier adds high-value features (alerts, gates, alternate flights) for frequent users.  
-- Business-travel friendly, strong brand exposure.
-
-**Limitations**  
-- Free version lacks many value-add features; Pro required for “premium” experience.  
-- Pricing (~US$49/year) may be high for casual travellers. :contentReference[oaicite:25]{index=25}  
-- Some user reviews mention UI/UX is dated and auto-import may falter with non-standard bookings. :contentReference[oaicite:26]{index=26}  
+| Metric | Detail | Source |
+|---|---|---|
+| Company | TripIt, by **Concur Technologies, Inc.** (an SAP company) | https://www.tripit.com/web |
+| Acquisition | **Concur acquired TripIt (2011)**; **SAP acquired Concur (2014)** | https://techcrunch.com/2011/01/13/concur-acquires-tripit/ • https://www.forbes.com/sites/benkepes/2014/09/18/sap-acquires-concur-the-monoliths-fight-back/ |
+| Complimentary Pro (B2B) | Available if employer uses **Concur TripLink** | https://www.tripit.com/web/blog/business-travel/tripit-pro-concur-triplink |
 
 ---
 
-## 📎 Public Sources (Summary)
+## ⭐ Strengths / ⚠️ Limitations (from public info)
 
-- [TripIt official site – How it works](https://www.tripit.com/web/free/how-it-works) :contentReference[oaicite:27]{index=27}  
-- [TripIt official site – Pricing (Pro vs Free)](https://www.tripit.com/web/pro/pricing) :contentReference[oaicite:28]{index=28}  
-- Review – “TripIt Review 2025” (Going.com) :contentReference[oaicite:29]{index=29}  
-- Reddit user feedback thread :contentReference[oaicite:30]{index=30}  
+**Strengths**
+- Best-in-class **real-time flight monitoring** & disruption workflows (Pro).  
+- **Email ingestion** builds itineraries automatically with broad provider support.  
+- Mature ecosystem (SAP Concur) + business-travel perks (TripLink eligibility).
+
+**Limitations**
+- Many high-value features gated behind **Pro** ($49/yr).  
+- Not focused on inspiration/booking; complements rather than replaces OTAs.  
+- Import accuracy can vary for non-standard receipts (per third-party reviews).
+
+<sub>Sources: https://www.tripit.com/web/pro/pricing • https://www.going.com/guides/tripit-review • https://www.pilotplans.com/blog/review-of-tripit</sub>
 
 ---
 
+## 📎 Public Sources (consolidated)
+
+- TripIt homepage: https://www.tripit.com/web  
+- How it works (Free): https://www.tripit.com/web/free/how-it-works  
+- TripIt Pro & pricing: https://www.tripit.com/web/pro/pricing • https://www.tripit.com/pro  
+- Help Center (Seat Tracker): https://help.tripit.com/en/support/solutions/articles/103000063398-seat-maps-seat-tracker  
+- Blog (Fare Tracker / refunds): https://www.tripit.com/web/blog/travel-tips/DOT-new-rule-airlines  
+- App Store: https://apps.apple.com/us/app/tripit-travel-planner/id311035142  
+- Google Play: https://play.google.com/store/apps/details?id=com.tripit  
+- Concur acquisition (2011): https://techcrunch.com/2011/01/13/concur-acquires-tripit/  
+- SAP buys Concur (2014): https://www.forbes.com/sites/benkepes/2014/09/18/sap-acquires-concur-the-monoliths-fight-back/  
+- Complimentary Pro via TripLink: https://www.tripit.com/web/blog/business-travel/tripit-pro-concur-triplink
