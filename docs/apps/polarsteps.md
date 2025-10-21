@@ -19,6 +19,19 @@ nav_order: 1
 
 ---
 
+## 🏢 Company & Funding Info
+
+| Metric | Value |
+|--------|-------|
+| Employees | ~51-200 (Amsterdam, Netherlands) |
+| Estimated Annual Revenue | ~US$ 24.8 million |
+| Enterprise Value (estimated) | US$ 13-20 million |
+| Total Funding Raised | ~US$ 5-8 million |
+| Key Funding Rounds | Seed: ~€0.5 million (Mar 2016) · Series A: ~€3 million (Jan 2019) |
+| Best Rank Country | Netherlands (Top Travel Category) |
+
+---
+
 ## ✅ Feature checklist
 
 | Area | Capability | Status | Notes |
