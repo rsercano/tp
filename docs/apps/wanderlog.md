@@ -25,13 +25,13 @@ nav_order: 4
 
 | Area | Capability | Notes |
 |---|---|---|
-| Itinerary & map | Plan trips with an **itinerary + map in one view** | Official product page. :contentReference[oaicite:0]{index=0} |
-| Collaboration | **Real-time** planning with friends | Home/landing copy. :contentReference[oaicite:1]{index=1} |
-| Reservations | Organize **flight, hotel, car** reservations in one place | Store listings. :contentReference[oaicite:2]{index=2} |
-| Budget & expenses | Track trip budgets and **split expenses** (works offline for entries) | Feature page + blog. :contentReference[oaicite:3]{index=3} |
-| Guides & discovery | Create/share travel guides; browse destination guides | Store listing + site. :contentReference[oaicite:4]{index=4} |
-| Packing lists | Built-in packing checklist tools | Site feature list. :contentReference[oaicite:5]{index=5} |
-| Offline trip access | **Trips available offline**; edit basic plan without connection | FAQ/blog. :contentReference[oaicite:6]{index=6} |
+| Itinerary & map | Plan trips with an **itinerary + map in one view** | See product/features on the official site: [wanderlog.com](https://wanderlog.com/trip-planner-mobile-app) |
+| Collaboration | **Real-time** planning with friends | Landing copy & product page: [wanderlog.com](https://wanderlog.com) |
+| Reservations | Organize **flight, hotel, car** reservations in one place | Store listings: [App Store](https://apps.apple.com/us/app/wanderlog-travel-planner/id1476732439) • [Google Play](https://play.google.com/store/apps/details?id=com.wanderlog.android) |
+| Budget & expenses | Track trip budgets and **split expenses** | Feature page/blog: [wanderlog.com](https://wanderlog.com/trip-planner-mobile-app) |
+| Guides & discovery | Create/share travel guides; browse destination guides | Store + site: [App Store](https://apps.apple.com/us/app/wanderlog-travel-planner/id1476732439) • [wanderlog.com](https://wanderlog.com) |
+| Packing lists | Built-in packing checklist tools | Site features: [wanderlog.com](https://wanderlog.com/trip-planner-mobile-app) |
+| Offline trip access | **Trips available offline**; edit basic plan without connection | App page/blog: [wanderlog.com](https://wanderlog.com/trip-planner-mobile-app) |
 
 ---
 
@@ -39,14 +39,14 @@ nav_order: 4
 
 | Pro Feature | What you get |
 |---|---|
-| **Offline maps** | Download maps for use without data/wifi (distinct from basic offline trip access). :contentReference[oaicite:7]{index=7} |
-| **Gmail import** | Link Gmail to auto-import reservations. :contentReference[oaicite:8]{index=8} |
-| **Export to Google Maps** | Export your whole trip. :contentReference[oaicite:9]{index=9} |
-| **Route optimization** | Optimize routes (listed on site’s features). :contentReference[oaicite:10]{index=10} |
-| **AI assistant** | AI planning assistance (site features). :contentReference[oaicite:11]{index=11} |
-| **Flight status** | Flight-status feature shown on site. :contentReference[oaicite:12]{index=12} |
+| **Offline maps** | Download maps for use without data/wifi (distinct from basic offline trip access). Source: [Wanderlog blog/app page](https://wanderlog.com/trip-planner-mobile-app) |
+| **Gmail import** | Link Gmail to auto-import reservations. Source: [App Store](https://apps.apple.com/us/app/wanderlog-travel-planner/id1476732439) |
+| **Export to Google Maps** | Export your whole trip. Source: [App page](https://wanderlog.com/trip-planner-mobile-app) |
+| **Route optimization** | Optimize routes. Source: [App page](https://wanderlog.com/trip-planner-mobile-app) |
+| **AI assistant** | AI planning assistance. Source: [App page](https://wanderlog.com/trip-planner-mobile-app) |
+| **Flight status** | Flight-status tools. Source: [App page](https://wanderlog.com/trip-planner-mobile-app) |
 
-> **Pricing:** Wanderlog lists **Pro Annual “starting at $39.99/year.”** (Price can vary by region & platform.) :contentReference[oaicite:13]{index=13}
+> **Pricing:** Wanderlog lists **Pro Annual “starting at $39.99/year.”** (Price can vary by region & platform.) Source: [Pro pricing](https://wanderlog.com/trip-planner-mobile-app).
 
 ---
 
@@ -54,17 +54,19 @@ nav_order: 4
 
 | Stream | Description | Type | Notes / Pricing |
 |---|---|---|---|
-| **Wanderlog Pro** | Unlocks advanced features (offline maps, Gmail import, Google Maps export, route optimization, AI assistant, flight status) | Subscription | **From $39.99/year** on the official site; regional IAP pricing may vary. :contentReference[oaicite:14]{index=14} |
+| **Wanderlog Pro** | Unlocks advanced features (offline maps, Gmail import, Google Maps export, route optimization, AI assistant, flight status) | Subscription | **From $39.99/year** on the official site; regional IAP pricing may vary. Source: [pricing](https://wanderlog.com/trip-planner-mobile-app) |
 | Ads | None stated on official pages | — | Not advertised as an ad-supported product |
-| Guides content | Free UGC & editorial guides on web | Indirect | Drives SEO & acquisition; no paid wall. :contentReference[oaicite:15]{index=15} |
+| Guides content | Free UGC & editorial guides on web | Indirect | Drives SEO & acquisition; no paywall. Source: [wanderlog.com](https://wanderlog.com) |
 
 ---
 
 ## 🧭 Trip-Planner Relevance (vs. peers)
 
-- **Strong** at collaborative planning, budgeting/expense split, and making itineraries map-first. :contentReference[oaicite:16]{index=16}  
-- **Offline**: core trip plan available offline; **offline maps require Pro**. :contentReference[oaicite:17]{index=17}  
-- **Power-user tools** (Gmail import, GMaps export, route optimization, AI) live behind **Pro**. :contentReference[oaicite:18]{index=18}  
+- **Strong** at collaborative planning, budgeting/expense split, and map-first itineraries.  
+- **Offline**: core trip plan available offline; **offline maps require Pro**.  
+- **Power-user tools** (Gmail import, GMaps export, route optimization, AI) live behind **Pro**.
+
+(References for all three bullets: [App page](https://wanderlog.com/trip-planner-mobile-app) • [App Store](https://apps.apple.com/us/app/wanderlog-travel-planner/id1476732439))
 
 ---
 
@@ -72,38 +74,34 @@ nav_order: 4
 
 | Metric | Detail |
 |---|---|
-| **Company** | Travelchime Inc. (makers of Wanderlog) – “Made with ❤ in SF & more.” :contentReference[oaicite:19]{index=19} |
-| **Program** | Y Combinator alumni (company profile). :contentReference[oaicite:20]{index=20} |
-| **Reported funding** | Listed by Tracxn as **$150K from YC** (directory data; not independently confirmed on Wanderlog site). :contentReference[oaicite:21]{index=21} |
-| **Team** | Public pages emphasize small team; third-party interviews estimate ~5 people (treat as outside estimate). :contentReference[oaicite:22]{index=22} |
-| **HQ / Presence** | San Francisco (per site footer + founder LinkedIn). :contentReference[oaicite:23]{index=23} |
-
-> If you prefer to omit third-party estimates, you can drop the “Team”/“Funding” rows and keep only YC participation & site footer.
+| **Company** | Travelchime Inc. (makers of Wanderlog) – “Made with ❤ in SF & more.” Source: [site footer/about](https://wanderlog.com) |
+| **Program** | Y Combinator alumni. Source: [YC profile](https://www.ycombinator.com/companies/wanderlog) |
+| **Reported funding** | Tracxn lists **$150K from YC** (directory note). Source: [Tracxn](https://tracxn.com/d/companies/wanderlog) |
+| **Team** | Small team per public pages/interviews. (Optional row if you prefer only site-confirmed facts.) |
+| **HQ / Presence** | San Francisco (site/about + founder LinkedIn). |
 
 ---
 
 ## ⭐ Strengths / ⚠️ Limitations (from public info)
 
 **Strengths**
-- Excellent **collaboration UX** and **map-first itinerary**. :contentReference[oaicite:24]{index=24}  
-- **Expense & budgeting** built in (rare among planners). :contentReference[oaicite:25]{index=25}  
-- **Pro** unlocks powerful workflows (Gmail import, GMaps export, route optimization, offline maps). :contentReference[oaicite:26]{index=26}  
+- Excellent **collaboration UX** and **map-first itinerary**.  
+- **Expense & budgeting** built in (rare among planners).  
+- **Pro** unlocks powerful workflows (Gmail import, GMaps export, route optimization, offline maps).
 
 **Limitations**
-- Some headline capabilities (offline **maps**, Gmail import, export) require **Pro**. :contentReference[oaicite:27]{index=27}  
-- Store pages don’t disclose **country-by-country ranks**; those aren’t publicly listed by Apple/Google.
+- Some headline capabilities (offline **maps**, Gmail import, export) require **Pro**.  
+- Store pages don’t disclose **country-by-country ranks** (not public on Apple/Google).
 
 ---
 
 ## 📎 Public Sources (Summary)
 
-- **App Store:** Wanderlog – Travel Planner. :contentReference[oaicite:28]{index=28}  
-- **Google Play:** Wanderlog – Trip Planner App. :contentReference[oaicite:29]{index=29}  
-- **Official site:** Product & features overview. :contentReference[oaicite:30]{index=30}  
-- **Mobile app page:** iOS/Android feature highlights & offline messaging. :contentReference[oaicite:31]{index=31}  
-- **Blog (offline access details):** Clarifies Pro offline maps. :contentReference[oaicite:32]{index=32}  
-- **Pro pricing page:** Annual price starting at $39.99. :contentReference[oaicite:33]{index=33}  
-- **YC company page:** Company background. :contentReference[oaicite:34]{index=34}  
-- **Tracxn directory:** Funding note (YC). :contentReference[oaicite:35]{index=35}
+- **App Store:** https://apps.apple.com/us/app/wanderlog-travel-planner/id1476732439  
+- **Google Play:** https://play.google.com/store/apps/details?id=com.wanderlog.android  
+- **Official site (features/pricing):** https://wanderlog.com/trip-planner-mobile-app  
+- **Main site:** https://wanderlog.com  
+- **YC company page:** https://www.ycombinator.com/companies/wanderlog  
+- **Tracxn directory:** https://tracxn.com/d/companies/wanderlog
 
 ---
