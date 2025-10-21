@@ -1,4 +1,8 @@
-title: Notes
+title: Trip Planner Notes
 remote_theme: just-the-docs/just-the-docs
-color_scheme: light
-logo: # add later (optional)
+# IMPORTANT for GitHub Pages under a project site:
+url: https://rsercano.github.io
+baseurl: /tp
+
+# Sidebar/nav
+nav_enabled: true
